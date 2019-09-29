@@ -18,7 +18,7 @@ public class Main {
                     System.out.println("You marks:"+marks+" and rank is C");
                     break;
                 default:
-                    System.out.println("You marks:"+marks+" rank is FAIL");
+                    System.out.println("You marks:"+marks+" rank is FAIL");//Комментарий от Рамана :)
 
 	// write your code here
     }
