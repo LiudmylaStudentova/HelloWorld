@@ -20,6 +20,7 @@ public class Main {
                 default:
                     System.out.println("You marks:"+marks+" rank is FAIL");//This is a comment by Roman Chel
 
+
 	// write your code here
     }
 }}
