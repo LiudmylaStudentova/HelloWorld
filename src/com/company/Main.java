@@ -9,7 +9,7 @@ public class Main {
             int marks = Integer.parseInt(str1);
             switch (marks) {
                 case 90:
-                    System.out.println("You marks:"+marks+" and rank is A");
+                    System.out.println("You marks:"+marks+" and rank is A");// Comment Roma
                     break;
                 case 80:
                     System.out.println("You marks:"+marks+" and rank is B");
